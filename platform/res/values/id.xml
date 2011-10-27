@@ -1,0 +1,16 @@
+<resources>
+    <!-- Menu item to launch the Help -->
+    <item
+        type="id"
+        name="twofortyfouram_locale_menu_help" />
+
+    <!-- Menu item to cancel the current Activity -->
+    <item
+        type="id"
+        name="twofortyfouram_locale_menu_dontsave" />
+
+    <!-- Menu item to save the current Activity -->
+    <item
+        type="id"
+        name="twofortyfouram_locale_menu_save" />
+</resources>

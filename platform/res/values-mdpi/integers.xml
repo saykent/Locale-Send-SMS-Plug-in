@@ -1,0 +1,4 @@
+<resources>
+    <!-- The maximum blurb length in characters.  This value is based on Latin characters-->
+    <integer name="twofortyfouram_locale_maximum_blurb_length">50</integer>
+</resources>

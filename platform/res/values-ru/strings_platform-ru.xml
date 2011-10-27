@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="twofortyfouram_locale_marketactivity_dialog_message">Для использования этого плагина требуется Locale. Найти Locale на Android Market?</string>
+    <string name="twofortyfouram_locale_application_not_available">Приложение недоступно.</string>
+    <string name="twofortyfouram_locale_breadcrumb_format">%1$s%2$s%3$s</string>
+    <string name="twofortyfouram_locale_breadcrumb_separator">" &gt; "</string>
+    <string name="twofortyfouram_locale_marketactivity_dialog_title">Требуется Locale</string>
+    <string name="twofortyfouram_locale_marketactivity_dialog_button_search">Поиск</string>
+    <string name="twofortyfouram_locale_menu_dontsave">Не сохранять</string>
+    <string name="twofortyfouram_locale_menu_help">Помощь</string>
+    <string name="twofortyfouram_locale_menu_save">Сохранить</string>
+</resources>

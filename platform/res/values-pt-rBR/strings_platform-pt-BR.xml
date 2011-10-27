@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="twofortyfouram_locale_marketactivity_dialog_message">Locale é necessário para utilizar este plug-in. Gostaria de pesquisar sobre Locale no Mercado Android?</string>
+    <string name="twofortyfouram_locale_application_not_available">Aplicação não está disponível.</string>
+    <string name="twofortyfouram_locale_breadcrumb_format">%1$s%2$s%3$s</string>
+    <string name="twofortyfouram_locale_breadcrumb_separator">" &gt; "</string>
+    <string name="twofortyfouram_locale_marketactivity_dialog_title">Locale necessário</string>
+    <string name="twofortyfouram_locale_marketactivity_dialog_button_search">Pesquisar</string>
+    <string name="twofortyfouram_locale_menu_dontsave">Não Salvar</string>
+    <string name="twofortyfouram_locale_menu_help">Ajuda</string>
+    <string name="twofortyfouram_locale_menu_save">Salvar</string>
+</resources>

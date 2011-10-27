@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+** Copyright 2011 two forty four a.m. LLC <http://www.twofortyfouram.com>
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at <http://www.apache.org/licenses/LICENSE-2.0>
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+-->
+<resources>
+    <string name="app_name">Locale Send SMS Plug-in</string>
+    <string name="plugin_name">Send SMS</string>
+    <string name="message_hint">메시지 작성(max 140 bytes)</string>
+    <string name="resendMsg">30분 안에 동일한 메시지 재 전송하지 않음.</string>
+    <string name="recipient_hint">수진자 번호</string>
+    <string name="contact_string">주소록</string>
+    <string name="pickcontacts_name">주소록 선택</string>
+    <string name="alert_dialog_title">번호 선택</string>
+    <string name="alert_dialog_positive">확인</string>
+    <string name="alert_dialog_negative">취소</string>
+</resources>
